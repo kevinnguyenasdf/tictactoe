@@ -28,7 +28,7 @@ import {
 
   const styles = StyleSheet.create({
     screen: {
-        padding: 50
+        padding: 50,
       },
       input: {
         width: '100%',
@@ -41,7 +41,7 @@ import {
         flexDirection: 'column',
         justifyContent: 'space-between',
         alignItems: 'center',
-        paddingBottom: 20,
+        width: '100%',
       },
   });
 
